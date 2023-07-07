@@ -114,12 +114,3 @@ and are available via 'Get-Module -ListAvailable'.
 All other versions are saved but not installed.
 ```
 
-### Cached Docker images
-| Repository:Tag                                                            | Digest                                                                   | Created    |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- |
-| mcr.microsoft.com/dotnet/framework/aspnet:4.8-windowsservercore-ltsc2019  | sha256:1c8e6d213d957497d12eb3ea2e462c64ba6b8ae88cc6c828bd5a0a9494274858  | 2023-06-23 |
-| mcr.microsoft.com/dotnet/framework/runtime:4.8-windowsservercore-ltsc2019 | sha256:49aad131a4250da60e604cdeaac75c7b39fdb7665cfe5d7f45ac288e5e6861b1  | 2023-06-23 |
-| mcr.microsoft.com/dotnet/framework/sdk:4.8-windowsservercore-ltsc2019     | sha256:7f3424f6c04d174c4e6c5e96f437b00e42ed5af958a73ea915d96ccf4d26c89e  | 2023-06-23 |
-| mcr.microsoft.com/windows/nanoserver:1809                                 | sha256:81ab2c2f7ac2edf154915667f33ef9e2e77fdbe092c7cc562fff1fcf1762de22  | 2023-06-21 |
-| mcr.microsoft.com/windows/servercore:ltsc2019                             | sha256:341ab68cf115626b5181a9621c2054f71ea6637d05f9d312c2b45a4204c0b94d  | 2023-06-21 |
-
