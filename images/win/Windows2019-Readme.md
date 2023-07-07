@@ -25,7 +25,6 @@
 | Name                    | Value        |
 | ----------------------- | ------------ |
 | VCPKG_INSTALLATION_ROOT | C:\vcpkg     |
-| CONDA                   | C:\Miniconda |
 
 ### Tools
 - 7zip 23.01
@@ -72,10 +71,7 @@
 | msys2bash.cmd | C:\msys64\usr\bin\bash.exe        |
 | wslbash.exe   | C:\Windows\System32\bash.exe      |
 
-
-
 ### Databases
-
 
 ### Database tools
 - Azure CosmosDb Emulator 2.14.12.0
@@ -111,7 +107,6 @@
 - PowerShellGet: 1.0.0.1, 2.2.5
 - PSScriptAnalyzer: 1.21.0
 - PSWindowsUpdate: 2.2.0.3
-- SqlServer: 22.1.1
 - VSSetup: 2.2.16
 ```
 Azure PowerShell module 2.1.0 and AzureRM PowerShell module 2.1.0 are installed
