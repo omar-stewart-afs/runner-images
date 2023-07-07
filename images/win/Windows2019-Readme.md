@@ -2,7 +2,6 @@
 ***
 # Windows Server 2019
 - OS Version: --
-- 
 ## Windows features
 - Windows Subsystem for Linux (WSLv1): Enabled
 
