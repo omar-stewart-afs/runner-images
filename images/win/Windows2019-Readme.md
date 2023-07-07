@@ -1,6 +1,4 @@
-| Announcements |
-|-|
-| [[All OSs] .NET 3.1 will be removed from the images on July, 3](https://github.com/actions/runner-images/issues/7667) |
+
 ***
 # Windows Server 2019
 - OS Version: 10.0.17763 Build 4499
