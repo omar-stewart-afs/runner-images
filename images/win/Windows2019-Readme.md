@@ -1,9 +1,8 @@
 
 ***
 # Windows Server 2019
-- OS Version: 10.0.17763 Build 4499
-- Image Version: 20230630.1.0
-
+- OS Version: --
+- 
 ## Windows features
 - Windows Subsystem for Linux (WSLv1): Enabled
 
